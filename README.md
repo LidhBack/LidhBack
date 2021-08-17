@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LidhBack
+- 👀 I’m interested in TypeScript NodeJS Lambdas
+- 🌱 I’m currently learning Dockers
+- 📫 How to reach me back@lidh.com.mx
